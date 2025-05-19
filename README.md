@@ -8,3 +8,4 @@ Set up and used MySQL
 Created database tables using Django Migrations
 Retrieved and stored data using Django ORM
 Managed application data using Django Admin
+ 
